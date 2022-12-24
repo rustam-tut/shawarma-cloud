@@ -1,0 +1,11 @@
+ ('CLSH', 'Cheese Lavash', LAVASH),
+                 ('ULSH', 'Lavash', LAVASH),
+                 ('GRBF', 'Ground Beef', PROTEIN),
+                 ('LAMB', 'Lamb Meet', PROTEIN),
+                 ('CCMR', 'Cucumber', VEGGIES),
+                 ('TMTS', 'Tomatoes', VEGGIES),
+                 ('LETC', 'Lettuce', VEGGIES),
+                 ('CHED', 'Cheddar', CHEESE),
+                 ('ADYG', 'Adyghe Cheese', CHEESE),
+                 ('MYNS', 'Mayonnaise', SAUCE),
+                 ('HCHL', 'Hot Chili Sauce', SAUCE);
